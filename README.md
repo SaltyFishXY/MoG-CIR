@@ -18,6 +18,8 @@ The data are collected using active acoustic sensing. During data collection, a 
   - `a`: Digit or Gesture category
   - `b`: Writer ID
   - `c`: Sample count
+- **Digit writing recognition:** 15,357 labeled samples from 15 participants.
+- **Gesture recognition:** 4972 samples covering six common human-computer interaction gestures.
 
 ## 🔍 Examples
 
