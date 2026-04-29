@@ -8,7 +8,7 @@ The MoGL dataset contains acoustic sensing data collected for robust multi-view 
 
 The data are collected using active acoustic sensing. During data collection, a speaker emits predefined acoustic probing signals, while microphones receive the reflected signals caused by human hand or limb movements. The received acoustic signals are then processed into Channel Impulse Response (CIR) representations, which capture the spatial-temporal reflection patterns of different human activities.
 
-## 📚 Content
+## 📦 Content
 
 - **Data modality:** Channel Impulse Response (CIR)
 - **Digit classes:** 0–9
@@ -19,7 +19,7 @@ The data are collected using active acoustic sensing. During data collection, a 
   - `b`: Writer ID
   - `c`: Sample count
 
-## 🖼️ Examples
+## 🔍 Examples
 
 ### Digit Example
 
@@ -49,7 +49,7 @@ where:
 
 `14` denotes the gesture category, `1` denotes the writer ID, and `100` denotes the sample count.
 
-## ⚙️ File Structure
+## 🗂️ File Structure
 
 The dataset is organized by task and class labels.
 
