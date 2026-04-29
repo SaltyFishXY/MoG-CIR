@@ -25,7 +25,7 @@ The data are collected using active acoustic sensing. During data collection, a 
 
 Digit writing sample:
 
-![Digit 3](3-1-150.png)
+<img src="3-1-150.png" alt="Digit 3" width="360">
 
 Example filename:
 
@@ -39,7 +39,7 @@ where:
 
 Gesture recognition sample:
 
-![Clap](12-1-100.png)
+<img src="12-1-100.png" alt="Clap" width="360">
 
 Example filename:
 
